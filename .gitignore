@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Python environment files
+.venv
+venv/
+env/
+# IDE-specific files (VS Code)
+.vscode/
+# Local data files
+*.csv
+.joblib
+.json
+# Local reports and plots
+plots/
+*.png
+*.pdf
+# Database files
+*.db
+# Other temporary or sensitive files
+
+*.log
